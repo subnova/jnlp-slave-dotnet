@@ -8,8 +8,8 @@
 
 Adds dotnet core support with version: -
 
-+ dotnet-runtime-2.0.6
-+ dotnet-sdk-2.1.4
++ dotnet-runtime-2.1.1
++ dotnet-sdk-2.1.301
 
 to
 
